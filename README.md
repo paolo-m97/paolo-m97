@@ -3,7 +3,9 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Kali Linux & Metasploitable2 Penetration Testing Lab</b>
-  - (https://github.com/paolo-m97/metasploitable-pentest-lab.git)
+  - ([https://github.com/paolo-m97/metasploitable-pentest-lab.git])
+- <b>Web Application Security: SQLi, Social Engineering & Data Protection Lab</b>
+  - ([https://github.com/paolo-m97/metasploitable-pentest-lab.git](https://github.com/paolo-m97/websec-sqli-social-engineering-lab.git))
 
 <h2> 🤳 Connect with me:</h2>
 
